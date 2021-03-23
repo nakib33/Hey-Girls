@@ -1,7 +1,6 @@
 # MERN Stack - ECOMMERCE
 > Ecommerce website build with mern stack
 
-Add staffgit
 
 ## Install dependencies for server
 ## npm install
